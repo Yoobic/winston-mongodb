@@ -1,7 +1,7 @@
 {
   "name": "winston-mongodb",
   "license": "MIT",
-  "version": "5.0.7",
+  "version": "5.1.1",
   "description": "A MongoDB transport for winston",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/indexzero/winston-mongodb.git"
+    "url": "http://github.com/winstonjs/winston-mongodb.git"
   },
   "keywords": [
     "logging",
@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "abstract-winston-transport": "~0.5.1",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "mongoose": "^5.10.5",
     "winston": "^3.3.3"
   },
